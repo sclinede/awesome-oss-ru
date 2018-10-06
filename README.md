@@ -162,8 +162,8 @@ Welcome to  Issues and Pull Requests section :)
 ## Contributors
 
 Создан и отредактирован:
-- @sclinede
-- @palkan
+- [@sclinede](https://github.com/sclinede)
+- [@palkan](https://github.com/palkan)
 
 
 
