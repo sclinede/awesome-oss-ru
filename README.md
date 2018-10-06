@@ -1,11 +1,10 @@
 
 # Краткий гид по open-source движению или «как вкусно готовить open-source»
 
-![Ruby Russia 2018](/R-Ruby.png){:class="img-responsive"}]
-
 <a href="https://evilmartians.com/?utm_source=ossert">
 <img src="https://evilmartians.com/badges/sponsored-by-evil-martians.svg" alt="Sponsored by Evil Martians" width="236" height="54">
 </a>
+![Ruby Russia 2018](/R-Ruby.png)]
 
 ## Оглавление
 
