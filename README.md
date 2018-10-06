@@ -4,7 +4,7 @@
 
 # Краткий гид по open-source движению или «как вкусно готовить open-source»
 
-![Ruby Russia 2018](/R-Ruby.png)]
+![Ruby Russia 2018](/R-Ruby.png)
 
 ## Оглавление
 
